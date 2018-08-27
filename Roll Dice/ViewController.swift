@@ -39,7 +39,6 @@ class ViewController: UIViewController {
         AudioServicesPlaySystemSound(SystemSoundID(1104))
     }
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         display.text = "Привет игрок!"
