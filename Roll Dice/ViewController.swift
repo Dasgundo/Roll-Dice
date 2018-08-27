@@ -45,4 +45,3 @@ class ViewController: UIViewController {
         display.text = "Привет игрок!"
     }
 }
-
